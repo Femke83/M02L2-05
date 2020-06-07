@@ -1,0 +1,24 @@
+
+p.vlinders a:hover {
+color: lightblue;
+font-weight: bold;
+}
+p.vogels a:active{
+    color: red;
+    font-style: italic;
+}
+
+p.kikkers a:visited{
+    color: yellow;
+}
+.form  input{
+    margin: 15px 0;
+    padding: 10px 20px;
+    font-size: 24px;
+    border: 1px solid blue;
+}
+
+.form input:focus{
+    color:lightseagreen;
+    font-size: 20px;
+}
